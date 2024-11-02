@@ -8,4 +8,7 @@
 export const fileName2Title: Record<string, string> = {
   "0tutorial": "使用指南",
   Interviews: "示例文件",
+  "frontend": "前端",
+  "power": "健身",
+  "new": "健身入门"
 };

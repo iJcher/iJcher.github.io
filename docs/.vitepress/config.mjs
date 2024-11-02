@@ -4,14 +4,14 @@ import { getSidebar } from "./utils/getSidebar";
 
 export default defineConfig({
   // 标签上显示的网站标题
-  title: "Easy VitePress Blog",
+  title: "Jcher",
   titleTemplate: "Blog",
   // 在标签上显示所的 logo
-  head: [["link", { rel: "icon", href: "/logo.svg" }]],
+  head: [["link", { rel: "icon", href: "/logo5.png" }]],
 
   // 网站描述，有利于被搜索引擎捕获
   description:
-    "zbwer's tech blog: An undergraduate's journey through frontend development, sharing insights, tips, and experiences in web technologies.",
+    "Jcher's blog for fun and love",
 
   // md 文件根目录
   // 【谨慎修改】：一旦修改将引起较多变动
@@ -20,19 +20,18 @@ export default defineConfig({
   // 主题自定义
   themeConfig: {
     // 网站左上角 logo
-    logo: "/logo.svg",
+    logo: "/logo2.png",
     // 顶部导航栏
     nav: [
       { text: "👋 About", link: "/AboutMe.md" },
-      { text: "💭 Blogs", link: "/Notes/index" },
-      { text: "🦄 Projects", link: "Projects.md" },
+      { text: "⚒ Projects", link: "Projects.md" },
       { text: "👫 Friends", link: "Friends.md" },
     ],
     // 顶部导航栏左侧的社交平台跳转
-    socialLinks: [{ icon: "github", link: "https://github.com/ZbWeR" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/iJcher" }],
     // 首页底部版权声明
     footer: {
-      copyright: "Copyright © 2023-present zbwer",
+      copyright: "Copyright © 2024-present jcher",
     },
     // 【文章页面左侧导航】
     sidebar: {

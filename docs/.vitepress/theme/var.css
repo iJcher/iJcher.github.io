@@ -5,8 +5,8 @@
   /* 图标背景 */
   --vp-home-hero-image-background-image: linear-gradient(
     135deg,
-    #f6ceec 10%,
-    #d939cd 100%
+    #ffffffb9 10%,
+    #39d98eec 100%
   );
   --vp-home-hero-image-filter: blur(100px);
   /* brand按钮 */
@@ -24,7 +24,12 @@
     hsl(0 0% 95%) 14px
   );
 }
-
+.name[data-v-336fadc6], .text[data-v-336fadc6] {
+  background: linear-gradient(45deg, #6bff81, #f0e68c) !important; /* 渐变颜色 */
+  background-clip: text !important; /* 背景裁剪 */
+  -webkit-background-clip: text; /* Safari 兼容性 */
+  -webkit-text-fill-color: transparent; /* 填充颜色透明 */
+}
 .dark .bg-stripe:hover {
   background-image: repeating-linear-gradient(
     45deg,

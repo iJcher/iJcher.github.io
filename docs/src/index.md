@@ -27,5 +27,9 @@ features:
     title: 健身分享
     details: 分享一些自己的健身心得和避坑指南.
     link: /Notes/power/new
+  - icon: 🐤
+    title: 深度学习
+    details: LNN CNN
+    link: /Notes/ml/basic
 
 ---

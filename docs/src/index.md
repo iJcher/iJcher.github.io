@@ -31,5 +31,9 @@ features:
     title: 深度学习
     details: LNN CNN
     link: /Notes/ml/basic
+  - icon: ✏
+    title: 杂文琐事
+    details: 一些无聊的.....
+    link: /Notes/something/zawen
 
 ---

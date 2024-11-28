@@ -5,7 +5,7 @@ outline: deep
 tags: "frontend"
 updateTime: "2024-11-01 16:38"
 ---
-![change](/project-img/change.jpg)
+![change](/public/beauty.jpg)
 >健身是男人最好的医美。
 ## About me
 7个月时间在断断续续的情况下增重10kg(因为没有充分了解的情况下，走了很多弯路🥹)

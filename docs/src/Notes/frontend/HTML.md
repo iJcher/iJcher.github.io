@@ -5,7 +5,7 @@ outline: deep
 tags: "frontend"
 updateTime: "2024-10-31 09:38"
 ---
-![日照金山](/public/gold.jpg)
+![日照金山](/public/mountain.jpg)
 > 一切都是最好的安排。
 
 # 快捷键与标签介绍

@@ -7,7 +7,7 @@ hero:
   text: "给生活加点糖"
   tagline: "Jia.Tang to life🍭"
   image:
-    src: /logo5.png
+    src: /headicon.svg
     alt: VitePress
   actions:
     - theme: brand
@@ -30,10 +30,14 @@ features:
   - icon: 🐤
     title: 深度学习
     details: LNN CNN
-    link: /Notes/ml/basic
+    link: /Notes/ml/LNN
   - icon: ✏
     title: 杂文琐事
     details: 一些无聊的.....
     link: /Notes/something/zawen
+  - icon: 📚️
+    title: 专业课
+    details: 软件工程
+    link: /Notes/uestc/soft_engineer
 
 ---
